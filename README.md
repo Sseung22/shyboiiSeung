@@ -1,4 +1,6 @@
 <h1 align="center">반갑습니다 괴물 신인 김재승입니다.</h1>
+<h2 alighn="right">황지홍의 스승</h2>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
