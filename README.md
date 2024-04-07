@@ -1,4 +1,4 @@
-<h1> align="middle">황지홍의 스승</h1>
+<h1 align="middle">황지홍의 스승</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
