@@ -1,4 +1,4 @@
-<h1 align="middle">황지홍의 스승</h1>
+<h1 align="left">황지홍의 스승</h1>
 
 
 <h3 align="left">머리에 넣는중인거</h3>
