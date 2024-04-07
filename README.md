@@ -1,5 +1,4 @@
 <h1 align="center">반갑습니다 괴물 신인 김재승입니다.</h1>
-<h3 align="center">정상을 노리는 사람</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
